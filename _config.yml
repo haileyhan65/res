@@ -20,8 +20,8 @@ description: A website for HCI.
 
 # List of links in the navigation bar
 navbar-links:
-  #Good Design: "/_posts/gooddesign"
-  #Bad Design: "/_posts/baddesign"
+  Good Design: "/_posts/gooddesign"
+  Bad Design: "/_posts/baddesign"
   About Me: "aboutme"
   #Resources:
    #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
