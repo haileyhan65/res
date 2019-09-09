@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Good Design
+title: About me
 subtitle: Why This Is a Good Design
 ---
-
 
 - I rock a great mustache
 - I'm extremely loyal to my family
