@@ -1,12 +1,11 @@
 ---
 layout: page
 title: Bad Design
-subtitle: Why This Is a Poorly Designed Tupperware
+subtitle: Why EPHR is Poorly Designed
 ---
-### Bowl Tupperware
+### 
+The Williams Human Resources page is typically used by students and staff to input work hours and to store any data related to employment. Many students only go on it to time-stamp so they can get paid. 
 
-This tupperware is an example of a bad design because it doesn’t make use of all the space efficiently since it is circular. The target audience for this seems to be people who are just storing food at home with no intent to carry it around. There isn’t any special seal that could prevent leakage. It is shaped like a bowl with a lid which is very inefficient to travel with since the round ends wouldn’t fit inside a backpack.
+When you first enter the website home page, you immediately see all this writing cluttering up all the space. There are so many options that are presented in an extremely tiny font. What makes even less sense is that these options are also on the header, so there should not be a need to have all this out on the main page. There could be some simplifying done.
 
-The worst part about this tupperware is the fact that it is round and bowl shaped. There aren’t many foods that need to be specifically stored in bowl shaped containers. This takes up a lot of space especially in a refrigerator where things with edges are most compactly stored. This container is also very deep which would make it hard to fit within the shelves. The design where they have the indent to make these containers stackable is clever, but also very useless in daily life. 
-
-
+I personally think that though there are great resources available on the HR website, a lot of it could be hidden so that only the administration can see it. The average daily user does not need to be seeing all this information that only confuses their access to the website.
