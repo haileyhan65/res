@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Good Design
 subtitle: Why This Is a Good Design
 ---
 
