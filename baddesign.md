@@ -1,10 +1,12 @@
 ---
 layout: page
 title: Bad Design
-subtitle: Why EPHR is Poorly Designed
+subtitle: EPHR
 ---
-### 
+
 The Williams Human Resources page is typically used by students and staff to input work hours and to store any data related to employment. Many students only go on it to time-stamp so they can get paid. 
+
+image: 
 
 When you first enter the website home page, you immediately see all this writing cluttering up all the space. There are so many options that are presented in an extremely tiny font. What makes even less sense is that these options are also on the header, so there should not be a need to have all this out on the main page. There could be some simplifying done.
 
