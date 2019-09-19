@@ -24,7 +24,7 @@ posts they want to get notified for (such as free food, parties, study sessions,
 there isn’t a cluttering of push notifications, but also allow students to never miss out on events. Students 
 use a calendar to keep up with their academics, but don’t always do the same for social events. GroupMe has a great 
 feature that lets users vote on a poll and create calendar events that comes in very useful when communicating with 
-many people. 
+many people. We can use this as a starting point to see what elements can be improved. 
 
 ### Similar Works
 
