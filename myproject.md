@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dorm Norms
-bigimg: ({{site.baseurl}}/img/background.jpg)
+
 
 ---
 
@@ -37,5 +37,4 @@ can allow students that live in the same dorm to interact with each other.
 
 ![EPHR]({{site.baseurl}}/img/highkey.png){: .center-block :}
 
-(Figure 1){: .center-block :}
-
+Photo by [Highkey](https://medium.com/@justinemoore_85088/building-a-social-app-with-50-campus-saturation-with-vili-vaananen-highkey-85717011283c). (Figure 1)
