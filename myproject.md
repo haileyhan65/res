@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dorm Norms
-bigimg: ({{site.baseurl}}/img/background.png)
+bigimg: ({{site.baseurl}}/img/background.jpg)
 
 ---
 
