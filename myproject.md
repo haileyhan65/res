@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Dorm Norms
-subtitle: 
+bigimg: ![EPHR]({{site.baseurl}}/img/background.png){: .center-block :}
+
 ---
 
 ### Motivations + Problem
