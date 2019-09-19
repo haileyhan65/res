@@ -4,7 +4,7 @@ title: Dorm Norms
 subtitle: 
 ---
 
-###Motivations + Problem
+### Motivations + Problem
 
 Many college residence halls use messaging apps such as GroupMe to engage students in their housing communities. 
 These chats often get spammed with messages, so many students don’t actually read the majority of texts, increasing 
@@ -14,7 +14,7 @@ users said that they consider push notifications as spam once there were too man
 students are not used to living with housemates, making the transition from home to dorm very difficult. Despite having
 meetings and “Snacks”, it is very easy to forget what time quiet hours are or what events are happening in the house. 
 
-###What is Dorm Norms? 
+### What is Dorm Norms? 
 
 This project is an attempt to establish “dorm norms” in an engaging and efficient way, helping 
 students learn how to share spaces with each other. The housing coordinator will be the administrator of the 
@@ -25,7 +25,7 @@ use a calendar to keep up with their academics, but don’t always do the same f
 feature that lets users vote on a poll and create calendar events that comes in very useful when communicating with 
 many people. 
 
-###Similar Works
+### Similar Works
 
 
 There is a similar social calendar app used by USC students called Highkey. 
