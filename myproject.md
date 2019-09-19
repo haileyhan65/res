@@ -34,5 +34,5 @@ important to college students. Though it increases traffic to such events, it do
 can allow students that live in the same dorm to interact with each other. 
 
 
-![EPHR]({{site.baseurl}}/img/ephr.png){: .center-block :}
+![EPHR]({{site.baseurl}}/img/highkey.png){: .center-block :}
 
