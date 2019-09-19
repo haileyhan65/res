@@ -28,11 +28,13 @@ many people.
 ### Similar Works
 
 
-There is a similar social calendar app used by USC students called Highkey. 
+There is a similar social calendar app used by USC students called Highkey (Figure 1). 
 It works very well to promote house parties, Greek life, athletic events, and concerts which is 
 important to college students. Though it increases traffic to such events, it does not have any aspects that 
 can allow students that live in the same dorm to interact with each other. 
 
 
 ![EPHR]({{site.baseurl}}/img/highkey.png){: .center-block :}
+
+(Figure 1)
 
