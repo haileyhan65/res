@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dorm Norms
-bigimg: ![EPHR]({{site.baseurl}}/img/background.png){: .center-block :}
+bigimg: ![Dorm Norms]({{site.baseurl}}/img/background.png){: .center-block :}
 
 ---
 
