@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dorm Norms
-bigimg: ![Dorm Norms]({{site.baseurl}}/img/background.png){: .center-block :}
+bigimg: ({{site.baseurl}}/img/background.png)
 
 ---
 
@@ -37,5 +37,5 @@ can allow students that live in the same dorm to interact with each other.
 
 ![EPHR]({{site.baseurl}}/img/highkey.png){: .center-block :}
 
-(Figure 1)
+(Figure 1){: .center-block :}
 
